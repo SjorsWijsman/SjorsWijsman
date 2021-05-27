@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am a 22 year old (1999-05-28) Web Dev & Designer based in Utrecht, The Netherlands. My passion has always been creating creative solutions to help other people. Currently studying Communication & Multimedia Design at Amsterdam University of Applied Sciences. [CV](https://read.cv/sjors)
+
 
 <!--
 **SjorsWijsman/SjorsWijsman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
