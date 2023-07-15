@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a 23 year old Web Dev & Designer based in Utrecht, The Netherlands. My passion has always been creating creative solutions to help other people. Currently studying Communication & Multimedia Design at Amsterdam University of Applied Sciences. Check out my CV [here](https://read.cv/sjors)!
+I am a 24 year old Web Dev & Designer based in Utrecht, The Netherlands. My passion has always been creating creative solutions to help other people. Recently finished studying Communication & Multimedia Design at Amsterdam University of Applied Sciences. Check out my CV [here](https://read.cv/sjors)!
 
 
 <!--
